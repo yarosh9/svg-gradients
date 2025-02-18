@@ -12,7 +12,7 @@
    height="210mm"
    width="210mm">
   <defs>
-    <linearGradient id="linearGradient7">
+    <linearGradient id="linearGradient7" spreadMethod="reflect">
       <stop offset="0%"   style="stop-color:#00ffff;stop-opacity:1" />
       <stop offset="1%"   style="stop-color:#00ffff;stop-opacity:1" />
       <stop offset="97%"  style="stop-color:#111100;stop-opacity:1" />
@@ -21,13 +21,22 @@
     <radialGradient 
        xlink:href="#linearGradient7"
        id="radialGradient77"
+       spreadMethod="reflect"
        cx="105"
-       cy="105"
+       cy="50"
        fx="105"
-       fy="25"
-       r="100"
+       fy="0"
+       r="11"
        gradientUnits="userSpaceOnUse" />
   </defs>
+    <rect
+       style="
+       fill:url(#linearGradient7);
+       fill-opacity:1;"
+       width="210"
+       height="210"
+       x="0"
+       y="0" />
     <rect
        style="
        fill:url(#radialGradient77);
