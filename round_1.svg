@@ -12,7 +12,7 @@
    version="1.1">
   <defs>
     <linearGradient id="linearGradient7"
-       x1="0%" y1="0%" x2="0%" y2="25%" spreadMethod="reflect">
+       x1="0%" y1="0%" x2="0%" y2="50%" spreadMethod="reflect">
       <stop offset="0.00" style="stop-color:#ff0000;stop-opacity:1" />
       <stop offset="0.12" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.13" style="stop-color:#ff0000;stop-opacity:1" />
@@ -63,7 +63,7 @@
        cy="105"
        fx="105"
        fy="105"
-       r="75"
+       r="105"
        gradientUnits="userSpaceOnUse" />
   </defs>
    <rect
