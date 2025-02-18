@@ -12,7 +12,7 @@
    version="1.1">
   <defs>
     <linearGradient id="linearGradient7"
-       x1="0%" y1="0%" x2="0%" y2="50%" spreadMethod="reflect">
+       x1="0%" y1="0%" x2="0%" y2="25%" spreadMethod="reflect">
       <stop offset="0.00" style="stop-color:#ffdd00;stop-opacity:1" />
       <stop offset="0.12" style="stop-color:#001122;stop-opacity:1" />
       <stop offset="0.13" style="stop-color:#ffdd00;stop-opacity:1" />
@@ -58,12 +58,12 @@
     <radialGradient 
        xlink:href="#linearGradient7"
        id="radialGradient77824"
-       spreadMethod="repeat"
+       spreadMethod="reflect"
        cx="105"
        cy="105"
        fx="105"
        fy="105"
-       r="105"
+       r="33"
        gradientUnits="userSpaceOnUse" />
   </defs>
    <rect
