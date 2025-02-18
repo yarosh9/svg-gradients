@@ -12,16 +12,16 @@
    version="1.1">
   <defs>
     <linearGradient id="linearGradient7" 
-      x1="0%" y1="0%" x2="0%" y2="12.5%" spreadMethod="reflect">
-      <stop offset="0.000" style="stop-color:#001122;stop-opacity:1" />
+      x1="0%" y1="0%" x2="12.5%" y2="12.5%" spreadMethod="reflect">
+      <stop offset="0.000" style="stop-color:#000102;stop-opacity:1" />
       <stop offset="0.250" style="stop-color:#aaff00;stop-opacity:1" />
-      <stop offset="0.489" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.489" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.500" style="stop-color:#aaff00;stop-opacity:1" />
-      <stop offset="0.509" style="stop-color:#001122;stop-opacity:1" />
-      <stop offset="0.509" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="0.479" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.479" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.500" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="0.509" style="stop-color:#000102;stop-opacity:1" />
+      <stop offset="0.509" style="stop-color:#000102;stop-opacity:1" />
       <stop offset="0.750" style="stop-color:#aaff00;stop-opacity:1" />
-      <stop offset="1.000" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="1.000" style="stop-color:#000102;stop-opacity:1" />
     </linearGradient>
     <radialGradient 
        xlink:href="#linearGradient7"
@@ -30,17 +30,17 @@
        cy="105"
        fx="105"
        fy="105"
-       r="25"
+       r="37"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect" />
   </defs>
   <rect
-     y="-210"
+     y="0"
      x="0"
      height="210"
      width="210"
      style="fill:url(#linearGradient7);stroke:none;opacity:1"
-     transform="rotate(90)" />
+     transform="rotate(90, 105, 105)" />
   <rect
      y="0"
      x="0"
