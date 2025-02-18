@@ -29,8 +29,8 @@
        cx="105"
        cy="105"
        fx="105"
-       fy="105"
-       r="37"
+       fy="1"
+       r="46"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect" />
   </defs>
@@ -53,5 +53,12 @@
      x="0"
      height="210"
      width="210"
-     style="fill:url(#radialGradient77);stroke:none;opacity:0.45" /> 
+     style="fill:url(#radialGradient77);stroke:none;opacity:0.35" /> 
+  <rect
+     y="0"
+     x="0"
+     height="210"
+     width="210"
+     transform="rotate(180, 105, 105)"
+     style="fill:url(#radialGradient77);stroke:none;opacity:0.35" /> 
 </svg>
